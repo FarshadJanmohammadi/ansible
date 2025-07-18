@@ -1,2 +1,4 @@
-188.121.100.42
-37.32.14.134
+[servers]
+188.121.100.42 ansible_user=ubuntu
+37.32.14.134 ansible_user=ubuntu
+
